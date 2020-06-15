@@ -1,3 +1,5 @@
+jest.mock('react')
+
 import {NavigationService} from '../src'
 import configureStore from 'redux-mock-store'
 import * as React from 'react'
@@ -24,7 +26,7 @@ describe('NavigationService', () => {
     let store
 
     beforeEach(() => {
-      jest.spyOn(React, 'createRef').mockImplementation(()=> ({
+      jest.spyOn(React, 'createRef').mockImplementation(() => ({
         current: {
           navigate: jest.fn(),
         },
