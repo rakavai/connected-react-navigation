@@ -24,5 +24,12 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/rakavai/connected-react-navigation"
-  }
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "redux",
+    "react-navigation",
+    "navigation-middleware"
+  ]
 }
