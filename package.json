@@ -1,5 +1,5 @@
 {
-  "name": "connected-react-navigation",
+  "name": "react-navigation-redux-binding",
   "version": "0.1.0",
   "description": "Redux binding for React Navigation v5",
   "main": "src/index.js",
