@@ -1,0 +1,9 @@
+{
+  "name": "connected-react-navigation",
+  "version": "0.1.0",
+  "description": "Redux binding for React Navigation v5",
+  "main": "src/index.js",
+  "author": "Rakibul",
+  "license": "MIT",
+  "private": false
+}
