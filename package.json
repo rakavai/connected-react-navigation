@@ -1,6 +1,6 @@
 {
   "name": "react-navigation-redux-binding",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "Redux binding for React Navigation v5",
   "main": "src/index.js",
   "scripts": {
