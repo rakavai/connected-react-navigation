@@ -57,5 +57,12 @@ Navigate can only use the screen name.
 
 Passing the navigation `params` has not been implemented yet.
 
+## Background story
+When I was working on a react native application I had to navigate to different screen from
+redux action which was sometime also asynchronous.
+So inspired by [connected-react-router](https://github.com/supasate/connected-react-router),
+I implemented a service  binding for  redux and react navigation v5 in my application.
+Then extracted the code into this library.
+
 ## License
 [MIT License](LICENSE)
