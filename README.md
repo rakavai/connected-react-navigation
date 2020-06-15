@@ -56,3 +56,6 @@ export const login = () => {
 Navigate can only use the screen name.
 
 Passing the navigation `params` has not been implemented yet.
+
+## License
+[MIT License](LICENSE)
