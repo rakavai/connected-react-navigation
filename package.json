@@ -1,6 +1,6 @@
 {
   "name": "react-navigation-redux-binding",
-  "version": "0.1.0",
+  "version": "0.7.0",
   "description": "Redux binding for React Navigation v5",
   "main": "src/index.js",
   "scripts": {
@@ -13,9 +13,9 @@
     "@babel/preset-env": "^7.10.2",
     "babel-jest": "^26.0.1",
     "jest": "^26.0.1",
-    "redux-mock-store": "^1.5.4",
     "react": "~16.9.0",
-    "redux":"^4.0.5"
+    "redux": "^4.0.5",
+    "redux-mock-store": "^1.5.4"
   },
   "peerDependencies": {
     "react": "*",
