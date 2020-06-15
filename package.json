@@ -20,5 +20,9 @@
   "peerDependencies": {
     "react": "*",
     "redux": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rakavai/connected-react-navigation"
   }
 }
