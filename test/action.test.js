@@ -1,4 +1,4 @@
-import {navigate} from './action'
+import {navigate} from '../src'
 
 describe('action', () => {
   describe('navigate', () => {

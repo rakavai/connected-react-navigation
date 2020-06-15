@@ -1,7 +1,7 @@
-import NavigationService from './NavigationService'
+import {NavigationService} from '../src'
 import configureStore from 'redux-mock-store'
 import * as React from 'react'
-import {NAVIGATE} from './action'
+import {NAVIGATE} from '../src/action'
 
 
 describe('NavigationService', () => {

@@ -1,7 +1,7 @@
 import * as React from 'react'
 import {NAVIGATE} from './action'
 
-export default class NavigationService {
+export  class NavigationService {
   constructor() {
     this._navigationRef = React.createRef()
   }
