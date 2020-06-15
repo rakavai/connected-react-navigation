@@ -3,7 +3,13 @@
   "version": "0.1.0",
   "description": "Redux binding for React Navigation v5",
   "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
   "author": "Rakibul",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
 }
