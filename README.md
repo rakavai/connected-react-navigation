@@ -1,4 +1,9 @@
+# obsolete
+
+This is no longer maintained, please consider using [useNavigation](https://reactnavigation.org/docs/use-navigation/) hook instead.
+
 # connected-react-navigation
+
 Redux binding for *React Navigation v5*
 
 ## Installation
